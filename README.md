@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @developerdurgadevi
+- 👋 Hi, I’m Durgadevi
 - 👀 I’m interested in Android Development and Gaming
-- 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning unity 3D
+- 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me @mail : developerdurgadevi@gmail.com
 
 <!---
