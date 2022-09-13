@@ -1,6 +1,5 @@
 - Vanakam I'm Durgadevi
-- I’m interested in Android Development and Gaming
-- I’m currently learning Machine-learning(python)
+- I’m interested in Devoloping Games and C programming.
 - I’m looking on guidance to develop my skills
 - Reach me @gmail : developerdurgadevi@gmail.com
 
