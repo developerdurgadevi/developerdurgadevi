@@ -1,5 +1,4 @@
-- Vanakam I'm Durgadevi
-- Reach me @gmail : developerdurgadevi@gmail.com
+Reach me @gmail : developerdurgadevi@gmail.com
 
 <!---
 developerdurgadevi/developerdurgadevi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
